@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=Telegram&logoColor=white)](https://t.me/wishreacher)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=Telegram&logoColor=white)](https://t.me/volodymyrfedorych)
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=Swift&logoColor=white) 

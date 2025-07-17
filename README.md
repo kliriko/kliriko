@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 Currently studying software engineering at Kyiv-Mohyla academy<br>👯 Looking to collaborate on any Swift projects<br>🌱 Studying iOS frameworks
 
-<!--
-**kliriko/kliriko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=Telegram&logoColor=white)](https://t.me/wishreacher)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=Swift&logoColor=white) 
+![XCode](https://img.shields.io/badge/XCode-%23147EFB.svg?style=flat&logo=Xcode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=Python&logoColor=white) 
+![Perforce](https://img.shields.io/badge/Perforce-89CFF0?style=flat&logo=Perforce) 
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wishreacher&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wishreacher&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wishreacher&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
